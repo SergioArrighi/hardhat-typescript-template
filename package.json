@@ -1,5 +1,5 @@
 {
-  "name": "hardhat-template",
+  "name": "hardhat-typescript-template",
   "version": "1.0.0",
   "description": "A MeV bot for sandwitch attacks",
   "main": "index.js",
